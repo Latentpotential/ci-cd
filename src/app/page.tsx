@@ -63,7 +63,7 @@ export default function BirthdayWish() {
             animate={{ opacity: 1 }}
             transition={{ delay: 1 }}
           >
-            <li>🎯 More successful customers</li>
+            <li>🎯 More successfull customers</li>
             <li>💻 Exciting anal experience</li>
             <li>✨ And lots of dicks!</li>
           </motion.ul>
