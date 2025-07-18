@@ -65,7 +65,6 @@ export default function BirthdayWish() {
           >
             <li>🎯 More successful customers</li>
             <li>💻 Exciting anal experience</li>
-            <li>📚 New big cocks</li>
             <li>✨ And lots of dicks!</li>
           </motion.ul>
         </motion.div>
